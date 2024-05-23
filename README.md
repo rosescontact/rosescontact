@@ -1,4 +1,4 @@
-<img src="print.png" width="50%">
+<img src="print.png" width="100%">
 
 ## <p align="center">Skills</p>
 
